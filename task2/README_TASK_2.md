@@ -70,3 +70,13 @@ npm start: used to Start the app using the production build and Used after runni
     git add .
     git commit -m "Add 3D model viewer"
     git push origin main
+
+## Screenshots
+
+### 3D Model Viewer
+
+![3D Model Viewer](screenshots/3dmodel.png)
+
+### Loading / Shimmer
+
+![Loading](screenshots/loading.png)
