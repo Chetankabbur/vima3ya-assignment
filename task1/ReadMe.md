@@ -76,35 +76,19 @@ npm run dev
 - Vite (Build tool)
 - TypeScript
 
-For detailed documentation, see [Task 1 README](./task-1/README.md)
+### Screenshots ─╯
 
-## Task 2: (Placeholder)
+#### Form Section
 
-Future task implementation will be added here.
+![Form Section 1](screenshots/image1.png)
+![Form Section 2](screenshots/image2.png)
 
-## Running Individual Tasks
+#### Sidebar Navigation
 
-Each task is a standalone application with its own dependencies:
+![Sidebar Navigation 1](screenshots/image3.png)
+![Sidebar Navigation 2](screenshots/image4.png)
 
-```bash
-# Run Task 1
-cd task-1
-npm install
-npm run dev
+#### Success Screen & Shimmer Loader
 
-# Run Task 2 (when available)
-cd ../task-2
-npm install
-npm run dev
-```
-
-## Development Notes
-
-- Each task directory is a separate project with its own `package.json`
-- Tasks use Vite for fast development and building
-- TypeScript is configured for type safety
-- Tailwind CSS is used for consistent styling across tasks
-
-## License
-
-MIT
+![Success Screen](screenshots/image5.png)
+![Shimmer Loader](screenshots/image6.png)
